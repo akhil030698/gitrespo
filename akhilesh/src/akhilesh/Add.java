@@ -12,5 +12,6 @@ public class Add {
     	  }
     	  else
     		  System.out.println("Odd");
+		// bahut pareshan  kiya yeh
 	}
 }
