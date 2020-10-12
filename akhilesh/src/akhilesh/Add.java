@@ -13,5 +13,6 @@ public class Add {
     	  else
     		  System.out.println("Odd");
 		// bahut pareshan  kiya yeh
+    	  // kya kre bahut hi kamina hai na yeh
 	}
 }
